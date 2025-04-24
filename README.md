@@ -22,3 +22,6 @@ flutter run
 Link for APK :  https://drive.google.com/file/d/1JGT84uPDjkju33yCeFCnw1KzW86Yfb08/view?usp=sharing
 
 
+VIDEO LINK:https://drive.google.com/file/d/1sIhwhQ8sdbo-epsjIDJI5wwupcG3U9v2/view?usp=sharing
+
+
