@@ -18,3 +18,7 @@ GOOGLE_API_KEY=your_api_key_here
 flutter run
 
 
+
+Link for APK :  https://drive.google.com/file/d/1JGT84uPDjkju33yCeFCnw1KzW86Yfb08/view?usp=sharing
+
+
